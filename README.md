@@ -6,7 +6,7 @@
 
 - **Current Sprint**:  
 - **Sprint Duration**: 
-- **Objectives**: terminar figma y comenzar con codigo.
+- **Objectives**: terminacion del modelado figma y comenzar con codigo.
 - **Current Progress**: 60% complete.
 
 ## Sprint Planning
